@@ -1,0 +1,2 @@
+// các phần đã hoàn thành : thêm , sửa , xóa , đăng nhập , đăng kí
+// thiếu upload ảnh và trang chi tiết sản phẩm 
